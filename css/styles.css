@@ -13,6 +13,9 @@
     display: flex;
  }
 
+ .h850 {
+    height: 850px;
+    }
 
   /*FrontPage*/
 .menuLetterColor {
@@ -114,8 +117,8 @@ color: white;
 .title-section1 {
     color: white;
 text-align: center;
-padding-top: 30px;
-padding-bottom: 30px;
+padding-top: 100px;
+padding-bottom: 40px;
 
 }
 
@@ -136,13 +139,31 @@ padding-bottom: 30px;
 .s1-align-img {
 display: block;
 margin: 0 auto;
-
+width: 80px;
 }
 
 .padding-section1 {
-    padding: 40px 20px 20px 20px;
+    padding: 50px 20px 20px 20px;
 }
 
+.section1-leftform{
+    position: absolute;
+    
+        left: 0%;
+        width: 160px;
+        margin-top: 300px;
+
+
+}
+
+.section1-rightform {    
+     position: absolute;
+    right: 0%;
+    width: 150px;
+
+
+
+}
 
 
 
@@ -186,6 +207,10 @@ margin: 0 auto;
 
         .HeaderTittle{
             padding-left: 40px;
+        }
+        
+        .section1-leftform {
+            display: none;
         }
 
        
