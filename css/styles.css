@@ -17,6 +17,14 @@
     height: 850px;
     }
 
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 40px;
+
+}
   /*FrontPage*/
 .menuLetterColor {
     color: white;
@@ -200,6 +208,18 @@ margin-top: 90px;
 }
 
 /*Section 1 End*/
+
+
+  }
+  
+  .card {
+    margin-top: 30px;
+    padding-top: 30px;
+    padding: 30px;
+    width: 400px !important;
+    height: 630px !important;
+  }
+
 
 
 
