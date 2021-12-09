@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="235" height="680" viewBox="0 0 235 680">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.476" y1="0.886" x2="0.5" y2="-0.328" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8aebf3"/>
+      <stop offset="0.218" stop-color="#00cadf"/>
+      <stop offset="1" stop-color="#2727ab"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_3826" data-name="Retângulo 3826" width="235" height="680" transform="translate(-8 1778)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_3825" data-name="Retângulo 3825" width="767.973" height="693.425" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_5" data-name="Grupo de máscara 5" transform="translate(227 2458) rotate(180)" clip-path="url(#clip-path)">
+    <g id="Grupo_11172" data-name="Grupo 11172" transform="translate(-549.973 1648.287)">
+      <g id="Grupo_11171" data-name="Grupo 11171" clip-path="url(#clip-path-2)">
+        <path id="Caminho_4389" data-name="Caminho 4389" d="M53.976,153.685S143.647-20.766,285.49,2.059,340.922,67.274,554.5,153.685,802.321,314.017,740.366,403.411,562.654,698.231,397.986,693.34,36.043,497.694,6.7,391.721,53.976,153.685,53.976,153.685" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="120" viewBox="0 0 121 120">
+  <g id="Grupo_11354" data-name="Grupo 11354" transform="translate(-900 -1380)">
+    <rect id="Area_SIZE:LARGE_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [SIZE:LARGE][STATE:DEFAULT][STYLE:STYLE2]" width="121" height="120" rx="60" transform="translate(900 1380)" fill="#fff"/>
+    <g id="Icon_" data-name="Icon " transform="translate(931.047 1412.442)">
+      <rect id="Area_ICON:feather_archive_SIZE:LARGE_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [ICON:feather/archive][SIZE:LARGE][STATE:DEFAULT][STYLE:STYLE2]" width="55" height="56" transform="translate(-0.046 -0.442)" fill="#fff" opacity="0"/>
+      <g id="Icon" transform="translate(3.605 7.209)">
+        <path id="Path" d="M44.05,8V37.647H3V8" transform="translate(0.453 3.395)" fill="#fff" stroke="#070536" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <rect id="Rect" width="48" height="10" transform="translate(0.349 0.349)" fill="#fff" stroke="#070536" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line" x2="9" transform="translate(19.349 20.349)" fill="none" stroke="#070536" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206" height="32" viewBox="0 0 206 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_3910" data-name="Retângulo 3910" width="206" height="32" transform="translate(128 52)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_4363" data-name="Caminho 4363" d="M9.972,32.676V38.67H29.328l-2.571-5.993Z" transform="translate(-9.972 -32.676)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_3790" data-name="Retângulo 3790" width="203.198" height="58.847" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_13" data-name="Grupo de máscara 13" transform="translate(-128 -52)" clip-path="url(#clip-path)">
+    <rect id="Retângulo_3785" data-name="Retângulo 3785" width="8.028" height="26.454" transform="translate(170.668 57.164)" fill="#00e2f5"/>
+    <path id="Caminho_4358" data-name="Caminho 4358" d="M111.4,26.453H97.942V0h13.572a27.6,27.6,0,0,1,9.864,1.582,14.011,14.011,0,0,1,6.369,4.54,11.41,11.41,0,0,1,2.234,7.079,11.485,11.485,0,0,1-2.234,7.1,13.992,13.992,0,0,1-6.4,4.56,27.906,27.906,0,0,1-9.948,1.589m-5.2-5.262h5.034a18.65,18.65,0,0,0,5.921-.814,7.037,7.037,0,0,0,3.624-2.53A7.5,7.5,0,0,0,122,13.411,7.426,7.426,0,0,0,120.784,9a7.024,7.024,0,0,0-3.615-2.518,18.72,18.72,0,0,0-5.912-.807h-5.052Z" transform="translate(91.289 57.165)" fill="#fff"/>
+    <rect id="Retângulo_3786" data-name="Retângulo 3786" width="0.025" height="4.615" transform="translate(256.756 79.006)" fill="#fff"/>
+    <path id="Caminho_4359" data-name="Caminho 4359" d="M242.34,0H231.99L218.885,26.457h8.6l1.4-3h16.536l1.4,3h8.6ZM231.683,17.465l5.335-11.421h.294l5.322,11.421Z" transform="translate(46.073 57.164)" fill="#fff"/>
+    <rect id="Retângulo_3787" data-name="Retângulo 3787" width="0.016" height="4.611" transform="translate(334.269 79.007)" fill="#fff"/>
+    <path id="Caminho_4360" data-name="Caminho 4360" d="M315.076,20.461v5.993H290.787V0h8.028V20.461Z" transform="translate(19.193 57.164)" fill="#fff"/>
+    <path id="Caminho_4361" data-name="Caminho 4361" d="M172.869,5.994v4.239H189.1v5.992H172.869v4.233h17.607v6H164.835V0h25.641V5.994Z" transform="translate(66.28 57.164)" fill="#fff"/>
+    <path id="Caminho_4362" data-name="Caminho 4362" d="M8.6,26.454H0L13.108,0H23.454l13.09,26.454h-8.6L18.43,6.045h-.3Z" transform="translate(127.905 57.165)" fill="#00e2f5"/>
+    <g id="Grupo_11123" data-name="Grupo 11123" transform="translate(134.149 77.625)">
+      <g id="Grupo_11122" data-name="Grupo 11122" clip-path="url(#clip-path-2)">
+        <image id="Retângulo_3789" data-name="Retângulo 3789" width="25.672" height="23.167" transform="translate(-3.113 -8.574)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAlCAYAAADfosCNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAANnSURBVFhHzZi7jtNQEIbnxJd1rhUtT0BDxyvQ8gbUSBSwoqGhowBBxwPQItHwBLwBEhU9BRKBXW1Ayeaye5h/zthxbo5Pcoz2l47srO31v98/M47XWGvppqul2xutRk32n9tbg2eU6ceD1Ujc3VfX98yULszMjGhGf83CjEdvaKGHvRWcZOfd1QOKbZtiatuIKUZ0wndJB0/I6CneCmYy+zB/kb1fPLaJ7diYsNiomM1sZFO+U6yneuvouJPP009mYn6ZS14TOuPtb17nHPc5Tc2FwZrRiOaGY6fJ6C1d66W1dTDJ1rfJj+jL5Vdm1LOp7TLBnk2YYELYF5qInGlmvM+xW8Se6OVeOsik+T62lNo+JbJ6fGusrtu3vMU+IrdtiT2yUptco+ngKe95ysskzIlBlhATiryEopBkirxikHTNo4vrUmlG/jRrmSybK4tj7sMcsdGcHsfbka0zvKTJsQvNlj0ZnPo1UaXJXeYKYbxw1FqHGzTFsNSmMyq1GcOoxF57JO00WWmuJKXZz6PnWpW6LMyWmyjiEsAf5tlEGyb30lsX5l9K2kBCUhbi1iZy8Tua6HTUKGgmTLNWuRUneZsriWmCIhN1Bpmexo/YXfRqDjTR5V40W8eYK8nAqIwliVtJShMVjbQ+kuRJVGck1cJdS3gULutQl34WkmpW6xPRu/rkYtmjlr3dOfjBv661kaSrGO7ObLIykhzNUz5aoXAkIZCR2kS3o06FpqvNPHaQhNGooIlBj9h3epEDwWnKU2iliTT2PHqp0bw2+RsSX1HxLalwH8yowW21gZZNlEfvzGnzgKSLvhjwW2mGjVslBBE7yGnUrh5LNIsmYrP5c52N6q9Y0YrJoLGjYdZHkjSRNpJMg1ITgaZroo3YGyEpgom8Nl0TaQMpWUTvSEr8jiY33haaGyYD00SX40nEj82iLnUcqVn8MY5m+89LMxy9prFeXmjr60OAJ1AheX2Y0NCMzVBeMzZfNc7Gj6KPevpWbY07/ICXRnJr2USox84+g1Dli1goombO795j85MpgqjQnN1PH+rhvfovJiE1OLy6m93RH9XW3lfaUEaPKaHmRlBJx9Z4rX8OHEozVAPWMgn5GA05HaDgcYc2CNUmCVXRbMJcrqNJwlyTBiEvklBOs2ljSxH9A4vH4dBx3QO1AAAAAElFTkSuQmCC"/>
+      </g>
+    </g>
+  </g>
+</svg>
