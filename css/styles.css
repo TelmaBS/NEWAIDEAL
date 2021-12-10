@@ -13,16 +13,14 @@
     display: flex;
  }
 
- .h850 {
-    height: 850px;
+ .h800 {
+    height: 800px;
     }
 
 
 h1 {
     color: white;
     text-align: center;
-    padding-top: 100px;
-    padding-bottom: 50px;
     font-weight: bold;
 
 }
@@ -246,18 +244,63 @@ margin-top: 90px;
 
   /*Section 4 End*/
 
+    /*Section 5 Triângulo */
+
+.tittle-section5{
+    
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 100px 0px 0px 40px
+ 
+}
+
+.text-section5{
+    color: white;
+    font-size: 17px;
+
+ margin-left: 40px;
+}
+
+/*.backgroud-section5{
+    background-image: url('');
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }*/
+
+.format-img-section5 {
+    padding-top: 60px;
+    height: 450px;
+
+}
+
+.h600 {
+    height: 600px;
+}
+
+  /*Section 5 Triângulo End*/
+
+ 
+  /*Section 6 Form*/
 
 
+  /*.backgroud-section6{
+    background-image: url('');
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }*/
 
 
+.format-form{
+
+}
 
 
-
-
-
-
-
-
+  /*Section 6 Form End*/
 
 
 
