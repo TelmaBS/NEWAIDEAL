@@ -295,9 +295,24 @@ margin-top: 90px;
   }*/
 
 
-.format-form{
+.contact-form{
 
+width: 60%;
+height: 750px;
+background-color: #070536;
+border-radius: 30px;
+padding: 200px;
 }
+
+.form-group{
+ width: 500px;
+ padding: 20px 0px 10px 0px;
+ background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+
 
 
   /*Section 6 Form End*/
