@@ -112,11 +112,17 @@ color: white;
     }
 
     #mobileform1 {
-        position: absolute;
+width: 120px !important;
         left: 0%;
         width: 160px;
+   
     }
 
+
+
+    .imagefrontpage {
+       padding: 30px; 
+    }
 /*FrontPage Ending*/
 
 /*Section 1*/
@@ -213,6 +219,11 @@ margin-top: 90px;
 
   /*Section 4 */
 
+  #section4-tittle{
+      padding: 10px 0px 50px 0px;
+
+  }
+
   .card-title{
     color: white;
     font-size: 20px;
@@ -304,50 +315,107 @@ border-radius: 30px;
 padding: 200px;
 }
 
-.form-group{
- width: 500px;
- padding: 20px 0px 10px 0px;
- background: transparent;
+
+
+  
+.group { 
+    position: relative; 
+    margin-bottom: 25px; 
+    
+  }
+  
+  input {
+    font-size: 13px;
+    height: 25px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 300px;
     border: none;
-    border-bottom: 1px solid #000000;
-}
-
-
+    outline: none;
+    border-bottom: 1px solid #00e2f5;
+    color:white;
+    background: rgba(0,0,0,0);
+    transition: 0.2s ease;
+  }
 
 
   /*Section 6 Form End*/
 
 
 
+/*footer*/
+.background-footer {
+    background-color: #070536;
+    height: 408px;
+    
+}
+
+
+
+
+
+/*footer End*/
+
+
+
+  
+
+ 
+  
+  
+
+
+  
+  
+
+  
 
 
 
 
 
 
-
-
-
-    @media screen and (max-width: 768px) {
+  @media screen and (max-width: 768px) {
         #frontPageMobile    {
         display: none;
         }
 
 
         .HeaderTittle{
-            margin-top: 200px;
+            margin-top: 150px;
             font-size: 40px;  
+            padding-left: 40px;
+
         }
 
-        .HeaderTittle{
-            padding-left: 40px;
-        }
-        
+     
         .section1-leftform {
             display: none;
         }
 
-       
+           
+        .section1-rightform {
+            display: none;
+        }
+
+
+        #section6-img {
+            display: none;
+        }
+
+       .format-img-section5{
+           display: none;
+       }
+
+       .h800 {
+           height: auto;
+       }
+
+    .linesformat{
+        display: none;
+    }
+    
+     
     }
 
 
@@ -355,12 +423,16 @@ padding: 200px;
         #mobileform1 {
             display: none;
         }
+
+
+        #triangulo-mobile{
+            display: none;
+        }
             
     }
 
 
-      /*FrontPage Ending*/
-/*
+   
 
 
 
@@ -387,3 +459,4 @@ padding: 200px;
 }
 
 /*
+
