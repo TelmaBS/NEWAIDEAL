@@ -346,12 +346,32 @@ padding: 200px;
 /*footer*/
 .background-footer {
     background-color: #070536;
-    height: 408px;
+    height: 300px;
     
 }
 
+#Alogoformat {
+    width: 60px;
+    margin-bottom: 30px;
+}
 
+.footer-text-color {
+    color: #00e2f5;
+    text-align: center;
+    margin-top: 150px;
+}
 
+.footer-text-color2 {
+
+    color: #00e2f5;
+    text-align: center;
+    margin-top: 170px;
+
+}
+#card-format {
+    width: 20px;
+
+}
 
 
 /*footer End*/
