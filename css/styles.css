@@ -5,6 +5,7 @@
  body { 
     background-color: #01011e;
     font-family: 'Noto Sans', sans-serif;
+    overflow-x: hidden;
 } 
 
 .alignAllCenter {
@@ -129,10 +130,9 @@ width: 120px !important;
 
 .title-section1 {
     color: white;
-text-align: center;
-padding-top: 100px;
-padding-bottom: 40px;
-
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 40px;
 }
 
 .section1-h2-formatation {
@@ -162,12 +162,10 @@ width: 80px;
 
 .section1-leftform{
     position: absolute;
-    
-        left: 0%;
-        width: 160px;
-        margin-top: 300px;
-
-
+    left: 0%;
+    width: 160px;
+    margin-top: 300px;
+    z-index: -9999;
 }
 
 .section1-rightform {    
@@ -211,6 +209,7 @@ margin-top: 90px;
 
 .linesformat {
   margin-top: 60px;
+  position: absolute;
 }
 
 /*Section 3 End*/
@@ -235,42 +234,48 @@ margin-top: 90px;
 
   .card-text {
       color: white;
-     
       text-align: center;
 
   }
 
   .card {
-  
+    margin: auto;
     padding: 30px;
     width: 250px !important;
     height: 400px !important;
     background-color: #070536;
     border-radius: 30px;
     margin-bottom: 50px;
-  
-
   }
 
+.bcknetblue{
+    background-image: url('../imagens/bck_blue_net_small.png');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 
+.bckbubble{
+    background-image: url('../imagens/bck_bubble_contact.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+}
   /*Section 4 End*/
 
     /*Section 5 Triângulo */
 
 .tittle-section5{
-    
     color: white;
     font-size: 30px;
     font-weight: bold;
     margin: 100px 0px 0px 40px
- 
 }
 
 .text-section5{
     color: white;
     font-size: 17px;
-
- margin-left: 40px;
+    margin-left: 40px;
 }
 
 /*.backgroud-section5{
@@ -286,38 +291,22 @@ margin-top: 90px;
     height: 450px;
 
 }
-
 .h600 {
     height: 600px;
 }
 
-  /*Section 5 Triângulo End*/
-
- 
-  /*Section 6 Form*/
-
-
-  /*.backgroud-section6{
-    background-image: url('');
-  height: 100vh;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  }*/
-
-
 .contact-form{
-
-width: 60%;
-height: 750px;
-background-color: #070536;
-border-radius: 30px;
-padding: 200px;
+    width: 60%;
+    background-color: #070536;
+    border-radius: 30px;
+    padding: 25px;
+    margin-top:25px;
+    margin-bottom:75px;
 }
-
-
-
-  
+.title-contact {
+    height: 100%;
+    margin-top: 95px;
+}
 .group { 
     position: relative; 
     margin-bottom: 25px; 
@@ -329,7 +318,7 @@ padding: 200px;
     height: 25px;
     padding: 10px 10px 10px 5px;
     display: block;
-    width: 300px;
+    width: 100%;
     border: none;
     outline: none;
     border-bottom: 1px solid #00e2f5;
@@ -341,13 +330,18 @@ padding: 200px;
 
   /*Section 6 Form End*/
 
-
+  .title-section6 {
+    color: white;
+    text-align: center;
+    }
+    .text-section6{
+        color: white;
+        font-size: 17px;
+    }
 
 /*footer*/
 .background-footer {
     background-color: #070536;
-    height: 300px;
-    
 }
 
 #Alogoformat {
