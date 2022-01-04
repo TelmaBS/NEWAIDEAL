@@ -14,11 +14,6 @@
     display: flex;
  }
 
- .h800 {
-    height: 800px;
-    }
-
-
 h1 {
     color: white;
     text-align: center;
@@ -95,8 +90,10 @@ h1 {
 
 
 .HeaderTittle {
-font-size: 50px;
 color: white;
+font-size: 40px;
+font-weight: bold;
+line-height: normal;
 }
 
 .buttondeCor {
@@ -113,10 +110,12 @@ color: white;
     }
 
     #mobileform1 {
-width: 120px !important;
+        width: 120px;
         left: 0%;
-        width: 160px;
-   
+        position:absolute;
+        top:220px;
+        left:0;
+        z-index: -9999;
     }
 
 
@@ -169,14 +168,15 @@ width: 80px;
 }
 
 .section1-rightform {    
-     position: absolute;
+    position: absolute;
     right: 0%;
     width: 150px;
-
-
-
+    z-index: -9999;
 }
-
+.navbar-dark .navbar-toggler{
+    color:rgb(255 255 255 / 0%)!important;
+    background-color:rgb(255 255 255 / 0%)!important;
+}
 /*Section 1 End*/
 
 /*Section 2 call to action*/
@@ -184,9 +184,7 @@ width: 80px;
 .background-section2 {
     background-color: white;
     align-items: center;
-    white-space: nowrap;
-   padding-top: 40px;
-   height: 250px;
+    padding: 40px 0;
 }
 
 .text-section2 {
@@ -370,26 +368,10 @@ margin-top: 90px;
 
 /*footer End*/
 
-
-
-  
-
- 
-  
-  
-
-
-  
-  
-
-  
-
-
-
-
-
-
   @media screen and (max-width: 768px) {
+    .contact-form{
+        width: 80%;
+    }
         #frontPageMobile    {
         display: none;
         }
@@ -398,8 +380,6 @@ margin-top: 90px;
         .HeaderTittle{
             margin-top: 150px;
             font-size: 40px;  
-            padding-left: 40px;
-
         }
 
      
@@ -417,17 +397,9 @@ margin-top: 90px;
             display: none;
         }
 
-       .format-img-section5{
-           display: none;
-       }
-
-       .h800 {
-           height: auto;
-       }
-
-    .linesformat{
-        display: none;
-    }
+        .linesformat{
+            display: none;
+        }
     
      
     }
